@@ -2,10 +2,10 @@
 /**
  *  @Project       : ftpdemo
 
- *  @Program Name  : com.maple.ftpdemo.FtpDemo.java
+ *  @Program Name  : com.sk.ftpdemo.FtpDemo.java
  *  @Class Name    : FtpDemo
  *  @Description   : 类描述
- *  @Author        : Maple
+ *  @Author        : sk
  *  @Creation Date : 2019年3月15日 上午10:50:31
  *  @ModificationHistory
  *  Who        When          What
@@ -26,10 +26,10 @@ import com.maple.ftpdemo.util.GenerateDirUtil;
 
 /**
  *  @Project       : ftpdemo
- *  @Program Name  : com.maple.ftpdemo.FtpDemo.java
+ *  @Program Name  : com.sk.ftpdemo.FtpDemo.java
  *  @Class Name    : FtpDemo
  *  @Description   : 类描述
- *  @Author        : Maple
+ *  @Author        : sk
  *  @Creation Date : 2019年3月15日 上午10:50:31
  *  @ModificationHistory
  *  Who        When          What
